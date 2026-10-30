@@ -1,0 +1,235 @@
+{
+  "original_files_sha256": {
+    "dialogs/2026-10-15_Очистка_ноутбука_0936e2eb.md": "917fed0a6d8e4058cc593698799320f82d4007e7e0b9529d26d8420266096343",
+    "dialogs/2026-10-12_Zefirny_Ugolok_сайт_4b9e83f8.md": "17e1e26978c48757e624dfa0bec3a3abc08367908b391d86c8df329a1be78b3f",
+    "dialogs/2026-10-12_Instagram_agent_skill_Наташа_9568cbb4.md": "d880be8921962796b757619f7817a1aa7dfae6e021bb036d9d3f4b050c79d82b",
+    "dialogs/2026-10-22_Парсинг_базы_поисковых_запросов_edee05cc.md": "340bfd95bf54ec478972a5dfc4094bba35bd6dc895652875135c3e846da40611",
+    "dialogs/2026-10-15_у_меня_есть_доступ_к_геткурс_dd58107e.md": "7e376f64b259811077c14cabfc63bf5feb049476d8d989ad5f0c6978e5e3e446",
+    "dialogs/2026-10-13_Отчет_сравнения_расходов_по_странам_и_платформам_69fbf86b.md": "c5f9efdc8e2ce26592478b2c8bcad0e80f1c08a76a3c4a36534655994edfa8f3",
+    "dialogs/2026-10-12_Портфолио_верстка_и_фото_b4533fdb.md": "0b5887a931140b618eb6db93ffa1a3287249d7ef67cef5649a1cd63b623a0df4",
+    "dialogs/2026-10-20_ИИ_ассистент_после_Zoom_созвонов_03840dec.md": "efa2856d7deca15d25943b4eec6c3e6353e9872e5ad95508f071b6df48f5bb4b",
+    "dialogs/2026-10-07_Instagram_agent_skill_ВАСИЛИЙ_28b52929.md": "766966b9fe26c64bcee429f0290bd19743d73bf771a53ba9cb25b2792a013366",
+    "dialogs/2026-10-27_Скачивание_кодекса_e760a971.md": "163be7b8eb094d983a66bb9261b92f0fa82c79d19166477db14c033acbe8f513",
+    "dialogs/2026-10-13_Шапка_Aframe_Happy_796a281f.md": "a7605f7681c44638f9a674fbf8ce21fedd024233d915051311d43648c66b1da7",
+    "dialogs/2026-10-05_AutoMontage-Agent_установка_и_проверка_ef4a9a69.md": "a8400b1d5220fd68158dd185f77aa1bf45db1699ea3cc2a0e462e4476b08db8a",
+    "dialogs/2026-10-20_Трекер_привычек_с_ИИ-наставником_32c93980.md": "bdcc0573b143758edbd812a48f57faefe0ea311cc3f85f781c526010ce4414d5",
+    "dialogs/2026-10-28_Пользовательский_путь_в_приложении_1b9ab4d9.md": "5e6d719d70cec720f34bb7fc53b89663f1889464ac9fce501b12e455719027eb",
+    "dialogs/2026-10-27_Создание_Джарвиса_ffa84aa7.md": "1920d533f68df477d91efadbfe7114f3d8812b96bb864e10e5742c40145a6579",
+    "dialogs/2026-10-20_Книжная_библиотека_с_полочками_1739afa8.md": "948b7e0d5ba0c7f83a047aa9bec7e732aeb21f1f003cf57aa790a66ee2697e79",
+    "dialogs/2026-10-29_Анализ_и_доработка_дизайна_сайта_b8618e09.md": "080fdf09202f57bee194ca8409b54b93e193c7224c7915ecdb591cdbb85223e3",
+    "dialogs/2026-10-28_httpsaibasisru_Проведи_мне_подробный_точечный_аккаунт_a6961bef.md": "4a320820f93748998f5632d7e53ada63382fdd0c1cedec71842ed0bed25ff031",
+    "dialogs/2026-10-29_Архив_диалогов_для_Кодекса_7cfeda79.md": "d5e630d9b583f6f2aad76e24b444187019ddbc75eb077e6a6b4a14f9f6a171a8",
+    "dialogs/2026-10-15_Портфолио_веб-сайтов_443a7363.md": "4eafb002392e6d2a0d4a89d974f9d475ef3946cfadea3a899513b7a5fdeebe28",
+    "dialogs/2026-10-12_Код_тильды_оптимизация_и_отладка_5f5e50fc.md": "69fe54ca58ac89011308f49569c88dc5efc760092539cffab5178e901765aca1",
+    "dialogs/2026-10-27_Заполнение_договора_данными_82edb8c6.md": "a857eed2b41aff5eb3aa1f1b756bfc06aa6db82cfea420984f0ac848b625735e",
+    "dialogs/2026-10-07_Instagram_agent_skill_7f27dc96.md": "e0d6345dbb9968c078f0ff5053755884715aa2d63fb4a52dba17781ec8c686f6",
+    "dialogs/2026-10-21_Verbatica_презентация_с_анимацией_e243b30a.md": "ae7973caef195ba1ee022a16327812682adb6b30660c9657d4f5cb630965f2d5",
+    "dialogs/2026-10-26_Ноябрь_2026_галочки_и_даты_2692b53b.md": "67dbeebbaa52bb51e9f2df2744da30625174cb736e2ece8b05567bed463ad69a",
+    "dialogs/2026-10-15_Полезные_скилы_со_сайта_51ca1d8f.md": "9214b1778277c82695adc8d5772caacedb9601af1de7096aa0d324eaaa7cde77",
+    "memory/jarvis-project.md": "af84972affc08d1d7e66799e8e3b5b91c2e7d92deb96c87c6a7042dfd3d6f1fd",
+    "memory/MEMORY.md": "691fd787354e0acea5ef1aa553774fdd00eb04b0361455ff289dfe89c0788087",
+    "memory/vasiliy-knowledge-base.md": "531eab0318f8aac0e4df66e26dfe19d95b9825057bce12f75ca1cd2088f7f38f",
+    "memory/vasiliy-carousel-hook-feedback.md": "09b38c12956670db4cddd30290ab4cec4c1ba7badd2a6782adacd2ece07b2a67",
+    "memory/vasiliy-anti-gpt.md": "5bf9c686ba03e97add8ff316020907cb19b4facd8ff8cdf766f3d5663a7bf435",
+    "memory/instagram-browser-risk.md": "776449d92bf1e09371be06a66ec0e737db0c9e27830fe4ec2cb455aa9a86e5ad",
+    "memory/russian-only.md": "0269dca627ced4b781e29d8916eafd18366277a17145cbfb604453b6359b65b3",
+    "memory/tasha-instagram-project.md": "132fb836addf54f54d6a5fed6e8be73161465bd0b249bbf1a70ede82c18952ec",
+    "memory/no-hashtag.md": "b3f3cbc5b5225849a3cdbf4f3b19b7e8a63d4b638007c94fa3a2ef2a9650d3cb",
+    "memory/zoom-assistant-project.md": "856d6cc6cca6b06cd9436af21281507febda4e023173f3ee708c7c140f63d1f8",
+    "memory/portfolio-sites-project.md": "751b3307f793a15f3d1b70a64ed246a40271d5141af77b2b7ec187bead162a4c",
+    "memory/marketplace-calculator.md": "ad66d610ff8a3272a6334317e2fae7426b1efaa49f6e129da8f0064a0cd5e6de",
+    "memory/short-replies.md": "1e7325b3ec9f069dec6a17af7e0accdd875fc75300aa5300e2176e04c02fa7a3"
+  },
+  "copies": [
+    {
+      "source": "dialogs/2026-10-05_AutoMontage-Agent_установка_и_проверка_ef4a9a69.md",
+      "copy": "projects/automontage/dialogs/2026-10-05_AutoMontage-Agent_установка_и_проверка_ef4a9a69.md",
+      "sha256": "a8400b1d5220fd68158dd185f77aa1bf45db1699ea3cc2a0e462e4476b08db8a"
+    },
+    {
+      "source": "dialogs/2026-10-07_Instagram_agent_skill_7f27dc96.md",
+      "copy": "projects/instagram-tools/dialogs/2026-10-07_Instagram_agent_skill_7f27dc96.md",
+      "sha256": "e0d6345dbb9968c078f0ff5053755884715aa2d63fb4a52dba17781ec8c686f6"
+    },
+    {
+      "source": "memory/instagram-browser-risk.md",
+      "copy": "projects/instagram-tools/memory/instagram-browser-risk.md",
+      "sha256": "776449d92bf1e09371be06a66ec0e737db0c9e27830fe4ec2cb455aa9a86e5ad"
+    },
+    {
+      "source": "dialogs/2026-10-07_Instagram_agent_skill_ВАСИЛИЙ_28b52929.md",
+      "copy": "projects/instagram-vasiliy/dialogs/2026-10-07_Instagram_agent_skill_ВАСИЛИЙ_28b52929.md",
+      "sha256": "766966b9fe26c64bcee429f0290bd19743d73bf771a53ba9cb25b2792a013366"
+    },
+    {
+      "source": "memory/vasiliy-anti-gpt.md",
+      "copy": "projects/instagram-vasiliy/memory/vasiliy-anti-gpt.md",
+      "sha256": "5bf9c686ba03e97add8ff316020907cb19b4facd8ff8cdf766f3d5663a7bf435"
+    },
+    {
+      "source": "memory/vasiliy-carousel-hook-feedback.md",
+      "copy": "projects/instagram-vasiliy/memory/vasiliy-carousel-hook-feedback.md",
+      "sha256": "09b38c12956670db4cddd30290ab4cec4c1ba7badd2a6782adacd2ece07b2a67"
+    },
+    {
+      "source": "memory/vasiliy-knowledge-base.md",
+      "copy": "projects/instagram-vasiliy/memory/vasiliy-knowledge-base.md",
+      "sha256": "531eab0318f8aac0e4df66e26dfe19d95b9825057bce12f75ca1cd2088f7f38f"
+    },
+    {
+      "source": "memory/no-hashtag.md",
+      "copy": "projects/instagram-vasiliy/memory/no-hashtag.md",
+      "sha256": "b3f3cbc5b5225849a3cdbf4f3b19b7e8a63d4b638007c94fa3a2ef2a9650d3cb"
+    },
+    {
+      "source": "memory/instagram-browser-risk.md",
+      "copy": "projects/instagram-vasiliy/memory/instagram-browser-risk.md",
+      "sha256": "776449d92bf1e09371be06a66ec0e737db0c9e27830fe4ec2cb455aa9a86e5ad"
+    },
+    {
+      "source": "dialogs/2026-10-12_Instagram_agent_skill_Наташа_9568cbb4.md",
+      "copy": "projects/instagram-tasha/dialogs/2026-10-12_Instagram_agent_skill_Наташа_9568cbb4.md",
+      "sha256": "d880be8921962796b757619f7817a1aa7dfae6e021bb036d9d3f4b050c79d82b"
+    },
+    {
+      "source": "memory/tasha-instagram-project.md",
+      "copy": "projects/instagram-tasha/memory/tasha-instagram-project.md",
+      "sha256": "132fb836addf54f54d6a5fed6e8be73161465bd0b249bbf1a70ede82c18952ec"
+    },
+    {
+      "source": "memory/instagram-browser-risk.md",
+      "copy": "projects/instagram-tasha/memory/instagram-browser-risk.md",
+      "sha256": "776449d92bf1e09371be06a66ec0e737db0c9e27830fe4ec2cb455aa9a86e5ad"
+    },
+    {
+      "source": "dialogs/2026-10-12_Zefirny_Ugolok_сайт_4b9e83f8.md",
+      "copy": "projects/zefirny-ugolok/dialogs/2026-10-12_Zefirny_Ugolok_сайт_4b9e83f8.md",
+      "sha256": "17e1e26978c48757e624dfa0bec3a3abc08367908b391d86c8df329a1be78b3f"
+    },
+    {
+      "source": "dialogs/2026-10-12_Код_тильды_оптимизация_и_отладка_5f5e50fc.md",
+      "copy": "projects/vasiliy-tilda/dialogs/2026-10-12_Код_тильды_оптимизация_и_отладка_5f5e50fc.md",
+      "sha256": "69fe54ca58ac89011308f49569c88dc5efc760092539cffab5178e901765aca1"
+    },
+    {
+      "source": "dialogs/2026-10-12_Портфолио_верстка_и_фото_b4533fdb.md",
+      "copy": "projects/portfolio/dialogs/2026-10-12_Портфолио_верстка_и_фото_b4533fdb.md",
+      "sha256": "0b5887a931140b618eb6db93ffa1a3287249d7ef67cef5649a1cd63b623a0df4"
+    },
+    {
+      "source": "dialogs/2026-10-15_Портфолио_веб-сайтов_443a7363.md",
+      "copy": "projects/portfolio/dialogs/2026-10-15_Портфолио_веб-сайтов_443a7363.md",
+      "sha256": "4eafb002392e6d2a0d4a89d974f9d475ef3946cfadea3a899513b7a5fdeebe28"
+    },
+    {
+      "source": "memory/portfolio-sites-project.md",
+      "copy": "projects/portfolio/memory/portfolio-sites-project.md",
+      "sha256": "751b3307f793a15f3d1b70a64ed246a40271d5141af77b2b7ec187bead162a4c"
+    },
+    {
+      "source": "dialogs/2026-10-13_Отчет_сравнения_расходов_по_странам_и_платформам_69fbf86b.md",
+      "copy": "projects/marketplace-calculator/dialogs/2026-10-13_Отчет_сравнения_расходов_по_странам_и_платформам_69fbf86b.md",
+      "sha256": "c5f9efdc8e2ce26592478b2c8bcad0e80f1c08a76a3c4a36534655994edfa8f3"
+    },
+    {
+      "source": "memory/marketplace-calculator.md",
+      "copy": "projects/marketplace-calculator/memory/marketplace-calculator.md",
+      "sha256": "ad66d610ff8a3272a6334317e2fae7426b1efaa49f6e129da8f0064a0cd5e6de"
+    },
+    {
+      "source": "dialogs/2026-10-13_Шапка_Aframe_Happy_796a281f.md",
+      "copy": "projects/aframe-happy/dialogs/2026-10-13_Шапка_Aframe_Happy_796a281f.md",
+      "sha256": "a7605f7681c44638f9a674fbf8ce21fedd024233d915051311d43648c66b1da7"
+    },
+    {
+      "source": "dialogs/2026-10-15_Очистка_ноутбука_0936e2eb.md",
+      "copy": "projects/laptop-maintenance/dialogs/2026-10-15_Очистка_ноутбука_0936e2eb.md",
+      "sha256": "917fed0a6d8e4058cc593698799320f82d4007e7e0b9529d26d8420266096343"
+    },
+    {
+      "source": "dialogs/2026-10-15_Полезные_скилы_со_сайта_51ca1d8f.md",
+      "copy": "projects/ai-skills/dialogs/2026-10-15_Полезные_скилы_со_сайта_51ca1d8f.md",
+      "sha256": "9214b1778277c82695adc8d5772caacedb9601af1de7096aa0d324eaaa7cde77"
+    },
+    {
+      "source": "dialogs/2026-10-15_у_меня_есть_доступ_к_геткурс_dd58107e.md",
+      "copy": "projects/getcourse-materials/dialogs/2026-10-15_у_меня_есть_доступ_к_геткурс_dd58107e.md",
+      "sha256": "7e376f64b259811077c14cabfc63bf5feb049476d8d989ad5f0c6978e5e3e446"
+    },
+    {
+      "source": "dialogs/2026-10-20_ИИ_ассистент_после_Zoom_созвонов_03840dec.md",
+      "copy": "projects/zoom-assistant/dialogs/2026-10-20_ИИ_ассистент_после_Zoom_созвонов_03840dec.md",
+      "sha256": "efa2856d7deca15d25943b4eec6c3e6353e9872e5ad95508f071b6df48f5bb4b"
+    },
+    {
+      "source": "memory/zoom-assistant-project.md",
+      "copy": "projects/zoom-assistant/memory/zoom-assistant-project.md",
+      "sha256": "856d6cc6cca6b06cd9436af21281507febda4e023173f3ee708c7c140f63d1f8"
+    },
+    {
+      "source": "dialogs/2026-10-20_Трекер_привычек_с_ИИ-наставником_32c93980.md",
+      "copy": "projects/habit-tracker/dialogs/2026-10-20_Трекер_привычек_с_ИИ-наставником_32c93980.md",
+      "sha256": "bdcc0573b143758edbd812a48f57faefe0ea311cc3f85f781c526010ce4414d5"
+    },
+    {
+      "source": "dialogs/2026-10-20_Книжная_библиотека_с_полочками_1739afa8.md",
+      "copy": "projects/book-library/dialogs/2026-10-20_Книжная_библиотека_с_полочками_1739afa8.md",
+      "sha256": "948b7e0d5ba0c7f83a047aa9bec7e732aeb21f1f003cf57aa790a66ee2697e79"
+    },
+    {
+      "source": "dialogs/2026-10-21_Verbatica_презентация_с_анимацией_e243b30a.md",
+      "copy": "projects/verbatica/dialogs/2026-10-21_Verbatica_презентация_с_анимацией_e243b30a.md",
+      "sha256": "ae7973caef195ba1ee022a16327812682adb6b30660c9657d4f5cb630965f2d5"
+    },
+    {
+      "source": "dialogs/2026-10-28_Пользовательский_путь_в_приложении_1b9ab4d9.md",
+      "copy": "projects/verbatica/dialogs/2026-10-28_Пользовательский_путь_в_приложении_1b9ab4d9.md",
+      "sha256": "5e6d719d70cec720f34bb7fc53b89663f1889464ac9fce501b12e455719027eb"
+    },
+    {
+      "source": "dialogs/2026-10-22_Парсинг_базы_поисковых_запросов_edee05cc.md",
+      "copy": "projects/search-queries/dialogs/2026-10-22_Парсинг_базы_поисковых_запросов_edee05cc.md",
+      "sha256": "340bfd95bf54ec478972a5dfc4094bba35bd6dc895652875135c3e846da40611"
+    },
+    {
+      "source": "dialogs/2026-10-26_Ноябрь_2026_галочки_и_даты_2692b53b.md",
+      "copy": "projects/november-planner/dialogs/2026-10-26_Ноябрь_2026_галочки_и_даты_2692b53b.md",
+      "sha256": "67dbeebbaa52bb51e9f2df2744da30625174cb736e2ece8b05567bed463ad69a"
+    },
+    {
+      "source": "dialogs/2026-10-27_Создание_Джарвиса_ffa84aa7.md",
+      "copy": "projects/jarvis/dialogs/2026-10-27_Создание_Джарвиса_ffa84aa7.md",
+      "sha256": "1920d533f68df477d91efadbfe7114f3d8812b96bb864e10e5742c40145a6579"
+    },
+    {
+      "source": "memory/jarvis-project.md",
+      "copy": "projects/jarvis/memory/jarvis-project.md",
+      "sha256": "af84972affc08d1d7e66799e8e3b5b91c2e7d92deb96c87c6a7042dfd3d6f1fd"
+    },
+    {
+      "source": "dialogs/2026-10-27_Скачивание_кодекса_e760a971.md",
+      "copy": "projects/codex-setup/dialogs/2026-10-27_Скачивание_кодекса_e760a971.md",
+      "sha256": "163be7b8eb094d983a66bb9261b92f0fa82c79d19166477db14c033acbe8f513"
+    },
+    {
+      "source": "dialogs/2026-10-29_Архив_диалогов_для_Кодекса_7cfeda79.md",
+      "copy": "projects/codex-setup/dialogs/2026-10-29_Архив_диалогов_для_Кодекса_7cfeda79.md",
+      "sha256": "d5e630d9b583f6f2aad76e24b444187019ddbc75eb077e6a6b4a14f9f6a171a8"
+    },
+    {
+      "source": "dialogs/2026-10-27_Заполнение_договора_данными_82edb8c6.md",
+      "copy": "projects/contracts/dialogs/2026-10-27_Заполнение_договора_данными_82edb8c6.md",
+      "sha256": "a857eed2b41aff5eb3aa1f1b756bfc06aa6db82cfea420984f0ac848b625735e"
+    },
+    {
+      "source": "dialogs/2026-10-28_httpsaibasisru_Проведи_мне_подробный_точечный_аккаунт_a6961bef.md",
+      "copy": "projects/aibasis-audit/dialogs/2026-10-28_httpsaibasisru_Проведи_мне_подробный_точечный_аккаунт_a6961bef.md",
+      "sha256": "4a320820f93748998f5632d7e53ada63382fdd0c1cedec71842ed0bed25ff031"
+    },
+    {
+      "source": "dialogs/2026-10-29_Анализ_и_доработка_дизайна_сайта_b8618e09.md",
+      "copy": "projects/vibe-coding-site/dialogs/2026-10-29_Анализ_и_доработка_дизайна_сайта_b8618e09.md",
+      "sha256": "080fdf09202f57bee194ca8409b54b93e193c7224c7915ecdb591cdbb85223e3"
+    }
+  ]
+}
