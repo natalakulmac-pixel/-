@@ -1,0 +1,12 @@
+- [Instagram в встроенном браузере](instagram-browser-risk.md) — вход в IG во встроенном браузере привёл к блокировке аккаунта; не повторять
+- [Правила Василия против GPT-шности](vasiliy-anti-gpt.md) — без точек на слайдах, без рубленых троек, больше цифр, не выдумывать от его имени
+- [Короткие ответы](short-replies.md) — отвечать коротко, без длинных отчётов
+- [Калькулятор маркетплейсов](marketplace-calculator.md) — Google Sheet калькулятора WB/Ozon/ЯМ, локаль ru (;), загрузка xlsx через Chrome
+- [Instagram Таши](tasha-instagram-project.md) — книжный блог @ms.tasha.natasha; весь контекст в tasha/CONTEXT.md
+- [Создание сайтов, портфолио](portfolio-sites-project.md) — портфолио Натальи на Tilda; весь контекст в portfolio/CONTEXT.md
+- [Только русский](russian-only.md) — все ответы, итоги и кнопки писать только по-русски
+- [Zoom-ассистент](zoom-assistant-project.md) — локальная запись Zoom → Whisper → Claude → Telegram, папка zoom-assistant
+- [Без хэштега](no-hashtag.md) — #ЗаметкиГенДиректора не пишем нигде
+- [База знаний Василия](vasiliy-knowledge-base.md) — voice.md, расшифровки занятий 1/3/4 в ~/.claude/instagram/transcripts
+- [Обложка-фото и живой текст](vasiliy-carousel-hook-feedback.md) — 1-й слайд: яркое фото человека как хук; без «пластика» и инфобиз-заходов
+- [Джарвис](jarvis-project.md) — Telegram-бот-ассистент на ПК, папка montagh/jarvis
